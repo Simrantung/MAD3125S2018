@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="strEmailPlaceholder">Email Address</string>
+    <string name="strPasswordPlaceholder">Password</string>
+    <string name="strLogin">Login</string>
+    <string name="strCancel">Cancel</string>
+</resources>
